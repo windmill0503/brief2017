@@ -10,7 +10,7 @@
 
 Organization项目地址：[点击进入](https://github.com/nousbuild/brief)
 
-###简短的介绍
+### 简短的介绍
 
 **BRIEF卫生空间设计** 是2017年第十届全国大学生节能减排社会实践与科技竞赛三等奖作品。
 
